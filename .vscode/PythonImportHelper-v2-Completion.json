@@ -1,0 +1,1613 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generic",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "minitorch.operators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "addLists",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "eq",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "id",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "inv",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "inv_back",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "log_back",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "lt",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "max",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "mul",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "neg",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "negList",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "prod",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "relu",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "relu_back",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "isExtraImport": true,
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "graph_builder",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "graph_builder",
+        "description": "graph_builder",
+        "detail": "graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "interface.plots",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "interface.plots",
+        "description": "interface.plots",
+        "detail": "interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "networkx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "networkx",
+        "description": "networkx",
+        "detail": "networkx",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "minitorch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "minitorch",
+        "description": "minitorch",
+        "detail": "minitorch",
+        "documentation": {}
+    },
+    {
+        "label": "MathTest",
+        "importPath": "minitorch",
+        "description": "minitorch",
+        "isExtraImport": true,
+        "detail": "minitorch",
+        "documentation": {}
+    },
+    {
+        "label": "MathTestVariable",
+        "importPath": "minitorch",
+        "description": "minitorch",
+        "isExtraImport": true,
+        "detail": "minitorch",
+        "documentation": {}
+    },
+    {
+        "label": "operators",
+        "importPath": "minitorch",
+        "description": "minitorch",
+        "isExtraImport": true,
+        "detail": "minitorch",
+        "documentation": {}
+    },
+    {
+        "label": "MathTest",
+        "importPath": "minitorch",
+        "description": "minitorch",
+        "isExtraImport": true,
+        "detail": "minitorch",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "get_img_tag",
+        "importPath": "interface.streamlit_utils",
+        "description": "interface.streamlit_utils",
+        "isExtraImport": true,
+        "detail": "interface.streamlit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "render_function",
+        "importPath": "interface.streamlit_utils",
+        "description": "interface.streamlit_utils",
+        "isExtraImport": true,
+        "detail": "interface.streamlit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "render_train_interface",
+        "importPath": "interface.train",
+        "description": "interface.train",
+        "isExtraImport": true,
+        "detail": "interface.train",
+        "documentation": {}
+    },
+    {
+        "label": "render_math_sandbox",
+        "importPath": "math_interface",
+        "description": "math_interface",
+        "isExtraImport": true,
+        "detail": "math_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TorchTrain",
+        "importPath": "run_torch",
+        "description": "run_torch",
+        "isExtraImport": true,
+        "detail": "run_torch",
+        "documentation": {}
+    },
+    {
+        "label": "st_ace",
+        "importPath": "streamlit_ace",
+        "description": "streamlit_ace",
+        "isExtraImport": true,
+        "detail": "streamlit_ace",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "hypothesis",
+        "description": "hypothesis",
+        "isExtraImport": true,
+        "detail": "hypothesis",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "hypothesis",
+        "description": "hypothesis",
+        "isExtraImport": true,
+        "detail": "hypothesis",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "hypothesis",
+        "description": "hypothesis",
+        "isExtraImport": true,
+        "detail": "hypothesis",
+        "documentation": {}
+    },
+    {
+        "label": "floats",
+        "importPath": "hypothesis.strategies",
+        "description": "hypothesis.strategies",
+        "isExtraImport": true,
+        "detail": "hypothesis.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "integers",
+        "importPath": "hypothesis.strategies",
+        "description": "hypothesis.strategies",
+        "isExtraImport": true,
+        "detail": "hypothesis.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "lists",
+        "importPath": "hypothesis.strategies",
+        "description": "hypothesis.strategies",
+        "isExtraImport": true,
+        "detail": "hypothesis.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "kind": 6,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "class Graph:\n    N: int\n    X: List[Tuple[float, float]]\n    y: List[int]\ndef simple(N):\n    X = make_pts(N)\n    y = []\n    for x_1, x_2 in X:\n        y1 = 1 if x_1 < 0.5 else 0\n        y.append(y1)",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "make_pts",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def make_pts(N):\n    X = []\n    for i in range(N):\n        x_1 = random.random()\n        x_2 = random.random()\n        X.append((x_1, x_2))\n    return X\n@dataclass\nclass Graph:\n    N: int",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "simple",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def simple(N):\n    X = make_pts(N)\n    y = []\n    for x_1, x_2 in X:\n        y1 = 1 if x_1 < 0.5 else 0\n        y.append(y1)\n    return Graph(N, X, y)\ndef diag(N):\n    X = make_pts(N)\n    y = []",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "diag",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def diag(N):\n    X = make_pts(N)\n    y = []\n    for x_1, x_2 in X:\n        y1 = 1 if x_1 + x_2 < 0.5 else 0\n        y.append(y1)\n    return Graph(N, X, y)\ndef split(N):\n    X = make_pts(N)\n    y = []",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def split(N):\n    X = make_pts(N)\n    y = []\n    for x_1, x_2 in X:\n        y1 = 1 if x_1 < 0.2 or x_1 > 0.8 else 0\n        y.append(y1)\n    return Graph(N, X, y)\ndef xor(N):\n    X = make_pts(N)\n    y = []",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "xor",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def xor(N):\n    X = make_pts(N)\n    y = []\n    for x_1, x_2 in X:\n        y1 = 1 if x_1 < 0.5 and x_2 > 0.5 or x_1 > 0.5 and x_2 < 0.5 else 0\n        y.append(y1)\n    return Graph(N, X, y)\ndef circle(N):\n    X = make_pts(N)\n    y = []",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "circle",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def circle(N):\n    X = make_pts(N)\n    y = []\n    for x_1, x_2 in X:\n        x1, x2 = x_1 - 0.5, x_2 - 0.5\n        y1 = 1 if x1 * x1 + x2 * x2 > 0.1 else 0\n        y.append(y1)\n    return Graph(N, X, y)\ndef spiral(N):\n    def x(t):",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "spiral",
+        "kind": 2,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "def spiral(N):\n    def x(t):\n        return t * math.cos(t) / 20.0\n    def y(t):\n        return t * math.sin(t) / 20.0\n    X = [(x(10.0 * (float(i) / (N // 2))) + 0.5, y(10.0 * (float(i) / (N //\n        2))) + 0.5) for i in range(5 + 0, 5 + N // 2)]\n    X = X + [(y(-10.0 * (float(i) / (N // 2))) + 0.5, x(-10.0 * (float(i) /\n        (N // 2))) + 0.5) for i in range(5 + 0, 5 + N // 2)]\n    y2 = [0] * (N // 2) + [1] * (N // 2)",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "datasets",
+        "kind": 5,
+        "importPath": "minitorch.datasets",
+        "description": "minitorch.datasets",
+        "peekOfCode": "datasets = {'Simple': simple, 'Diag': diag, 'Split': split, 'Xor': xor,\n    'Circle': circle, 'Spiral': spiral}",
+        "detail": "minitorch.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "Module",
+        "kind": 6,
+        "importPath": "minitorch.module",
+        "description": "minitorch.module",
+        "peekOfCode": "class Module:\n    \"\"\"Modules form a tree that store parameters and other\n    submodules. They make up the basis of neural network stacks.\n    Attributes\n    ----------\n        _modules : Storage of the child modules\n        _parameters : Storage of the module's parameters\n        training : Whether the module is in training mode or evaluation mode\n    \"\"\"\n    _modules: Dict[str, Module]",
+        "detail": "minitorch.module",
+        "documentation": {}
+    },
+    {
+        "label": "Parameter",
+        "kind": 6,
+        "importPath": "minitorch.module",
+        "description": "minitorch.module",
+        "peekOfCode": "class Parameter:\n    \"\"\"A Parameter is a special container stored in a `Module`.\n    It is designed to hold a `Variable`, but we allow it to hold\n    any value for testing.\n    \"\"\"\n    def __init__(self, x: Any, name: Optional[str] = None) -> None:\n        self.value = x\n        self.name = name\n        if hasattr(x, \"requires_grad_\"):\n            self.value.requires_grad_(True)",
+        "detail": "minitorch.module",
+        "documentation": {}
+    },
+    {
+        "label": "mul",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def mul(x: float, y: float) -> float:\n    \"$f(x, y) = x * y$\"\n    # TODO: Implement for Task 0.1.\n    return x * y\ndef id(x: float) -> float:\n    \"$f(x) = x$\"\n    # TODO: Implement for Task 0.1.\n    return x\ndef add(x: float, y: float) -> float:\n    \"$f(x, y) = x + y$\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "id",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def id(x: float) -> float:\n    \"$f(x) = x$\"\n    # TODO: Implement for Task 0.1.\n    return x\ndef add(x: float, y: float) -> float:\n    \"$f(x, y) = x + y$\"\n    # TODO: Implement for Task 0.1.\n    return x + y\ndef neg(x: float) -> float:\n    \"$f(x) = -x$\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def add(x: float, y: float) -> float:\n    \"$f(x, y) = x + y$\"\n    # TODO: Implement for Task 0.1.\n    return x + y\ndef neg(x: float) -> float:\n    \"$f(x) = -x$\"\n    # TODO: Implement for Task 0.1.\n    return -x\ndef lt(x: float, y: float) -> float:\n    \"$f(x) =$ 1.0 if x is less than y else 0.0\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "neg",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def neg(x: float) -> float:\n    \"$f(x) = -x$\"\n    # TODO: Implement for Task 0.1.\n    return -x\ndef lt(x: float, y: float) -> float:\n    \"$f(x) =$ 1.0 if x is less than y else 0.0\"\n    # TODO: Implement for Task 0.1.\n    return float(x < y)\ndef eq(x: float, y: float) -> float:\n    \"$f(x) =$ 1.0 if x is equal to y else 0.0\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "lt",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def lt(x: float, y: float) -> float:\n    \"$f(x) =$ 1.0 if x is less than y else 0.0\"\n    # TODO: Implement for Task 0.1.\n    return float(x < y)\ndef eq(x: float, y: float) -> float:\n    \"$f(x) =$ 1.0 if x is equal to y else 0.0\"\n    # TODO: Implement for Task 0.1.\n    return float(x == y)\ndef max(x: float, y: float) -> float:\n    \"$f(x) =$ x if x is greater than y else y\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "eq",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def eq(x: float, y: float) -> float:\n    \"$f(x) =$ 1.0 if x is equal to y else 0.0\"\n    # TODO: Implement for Task 0.1.\n    return float(x == y)\ndef max(x: float, y: float) -> float:\n    \"$f(x) =$ x if x is greater than y else y\"\n    # TODO: Implement for Task 0.1.\n    return x if x > y else y\ndef is_close(x: float, y: float) -> float:\n    \"$f(x) = |x - y| < 1e-2$\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "max",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def max(x: float, y: float) -> float:\n    \"$f(x) =$ x if x is greater than y else y\"\n    # TODO: Implement for Task 0.1.\n    return x if x > y else y\ndef is_close(x: float, y: float) -> float:\n    \"$f(x) = |x - y| < 1e-2$\"\n    # TODO: Implement for Task 0.1.\n    # Use a tolerance of 1e-2 as described in the docstring/tests.\n    return abs(x - y) < 1e-2\ndef sigmoid(x: float) -> float:",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "is_close",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def is_close(x: float, y: float) -> float:\n    \"$f(x) = |x - y| < 1e-2$\"\n    # TODO: Implement for Task 0.1.\n    # Use a tolerance of 1e-2 as described in the docstring/tests.\n    return abs(x - y) < 1e-2\ndef sigmoid(x: float) -> float:\n    r\"\"\"\n    $f(x) =  \\frac{1.0}{(1.0 + e^{-x})}$\n    (See https://en.wikipedia.org/wiki/Sigmoid_function )\n    Calculate as",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def sigmoid(x: float) -> float:\n    r\"\"\"\n    $f(x) =  \\frac{1.0}{(1.0 + e^{-x})}$\n    (See https://en.wikipedia.org/wiki/Sigmoid_function )\n    Calculate as\n    $f(x) =  \\frac{1.0}{(1.0 + e^{-x})}$ if x >=0 else $\\frac{e^x}{(1.0 + e^{x})}$\n    for stability.\n    \"\"\"\n    # Numerically stable implementation: use a piecewise form to avoid\n    # overflow for large negative inputs.",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "relu",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def relu(x: float) -> float:\n    \"\"\"\n    $f(x) =$ x if x is greater than 0, else 0\n    (See https://en.wikipedia.org/wiki/Rectifier_(neural_networks) .)\n    \"\"\"\n    # TODO: Implement for Task 0.1.\n    return max(0.0, x)\nEPS = 1e-6\ndef log(x: float) -> float:\n    \"$f(x) = log(x)$\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def log(x: float) -> float:\n    \"$f(x) = log(x)$\"\n    return math.log(x + EPS)\ndef exp(x: float) -> float:\n    \"$f(x) = e^{x}$\"\n    return math.exp(x)\ndef log_back(x: float, d: float) -> float:\n    r\"If $f = log$ as above, compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    # log(x) was implemented as math.log(x + EPS) so the derivative should",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "exp",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def exp(x: float) -> float:\n    \"$f(x) = e^{x}$\"\n    return math.exp(x)\ndef log_back(x: float, d: float) -> float:\n    r\"If $f = log$ as above, compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    # log(x) was implemented as math.log(x + EPS) so the derivative should\n    # be 1/(x + EPS).\n    return d / (x + EPS)\ndef inv(x: float) -> float:",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "log_back",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def log_back(x: float, d: float) -> float:\n    r\"If $f = log$ as above, compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    # log(x) was implemented as math.log(x + EPS) so the derivative should\n    # be 1/(x + EPS).\n    return d / (x + EPS)\ndef inv(x: float) -> float:\n    \"$f(x) = 1/x$\"\n    # TODO: Implement for Task 0.1.\n    return 1 / x",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "inv",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def inv(x: float) -> float:\n    \"$f(x) = 1/x$\"\n    # TODO: Implement for Task 0.1.\n    return 1 / x\ndef inv_back(x: float, d: float) -> float:\n    r\"If $f(x) = 1/x$ compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    return -d / (x**2)\ndef relu_back(x: float, d: float) -> float:\n    r\"If $f = relu$ compute $d \\times f'(x)$\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "inv_back",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def inv_back(x: float, d: float) -> float:\n    r\"If $f(x) = 1/x$ compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    return -d / (x**2)\ndef relu_back(x: float, d: float) -> float:\n    r\"If $f = relu$ compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    return 0.0 if x <= 0 else d\n# ## Task 0.3\n# Small practice library of elementary higher-order functions.",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "relu_back",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def relu_back(x: float, d: float) -> float:\n    r\"If $f = relu$ compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.\n    return 0.0 if x <= 0 else d\n# ## Task 0.3\n# Small practice library of elementary higher-order functions.\n# Implement the following core functions\n# - map\n# - zipWith\n# - reduce",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def map(fn: Callable[[float], float]) -> Callable[[Iterable[float]], Iterable[float]]:\n    \"\"\"\n    Higher-order map.\n    See https://en.wikipedia.org/wiki/Map_(higher-order_function)\n    Args:\n        fn: Function from one value to one value.\n    Returns:\n         A function that takes a list, applies `fn` to each element, and returns a\n         new list\n    \"\"\"",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "negList",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def negList(ls: Iterable[float]) -> Iterable[float]:\n    \"Use `map` and `neg` to negate each element in `ls`\"\n    # TODO: Implement for Task 0.3.\n    return map(neg)(ls)\ndef zipWith(\n    fn: Callable[[float, float], float]\n) -> Callable[[Iterable[float], Iterable[float]], Iterable[float]]:\n    \"\"\"\n    Higher-order zipwith (or map2).\n    See https://en.wikipedia.org/wiki/Map_(higher-order_function)",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "zipWith",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def zipWith(\n    fn: Callable[[float, float], float]\n) -> Callable[[Iterable[float], Iterable[float]], Iterable[float]]:\n    \"\"\"\n    Higher-order zipwith (or map2).\n    See https://en.wikipedia.org/wiki/Map_(higher-order_function)\n    Args:\n        fn: combine two values\n    Returns:\n         Function that takes two equally sized lists `ls1` and `ls2`, produce a new list by",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "addLists",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def addLists(ls1: Iterable[float], ls2: Iterable[float]) -> Iterable[float]:\n    \"Add the elements of `ls1` and `ls2` using `zipWith` and `add`\"\n    # TODO: Implement for Task 0.3.\n    return zipWith(add)(ls1, ls2)\ndef reduce(\n    fn: Callable[[float, float], float], start: float\n) -> Callable[[Iterable[float]], float]:\n    r\"\"\"\n    Higher-order reduce.\n    Args:",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def reduce(\n    fn: Callable[[float, float], float], start: float\n) -> Callable[[Iterable[float]], float]:\n    r\"\"\"\n    Higher-order reduce.\n    Args:\n        fn: combine two values\n        start: start value $x_0$\n    Returns:\n         Function that takes a list `ls` of elements",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def sum(ls: Iterable[float]) -> float:\n    \"Sum up a list using `reduce` and `add`.\"\n    # TODO: Implement for Task 0.3.\n    return reduce(add, 0)(ls)\ndef prod(ls: Iterable[float]) -> float:\n    \"Product of a list using `reduce` and `mul`.\"\n    # TODO: Implement for Task 0.3.\n    return reduce(mul, 1)(ls)",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "prod",
+        "kind": 2,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "def prod(ls: Iterable[float]) -> float:\n    \"Product of a list using `reduce` and `mul`.\"\n    # TODO: Implement for Task 0.3.\n    return reduce(mul, 1)(ls)",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "EPS",
+        "kind": 5,
+        "importPath": "minitorch.operators",
+        "description": "minitorch.operators",
+        "peekOfCode": "EPS = 1e-6\ndef log(x: float) -> float:\n    \"$f(x) = log(x)$\"\n    return math.log(x + EPS)\ndef exp(x: float) -> float:\n    \"$f(x) = e^{x}$\"\n    return math.exp(x)\ndef log_back(x: float, d: float) -> float:\n    r\"If $f = log$ as above, compute $d \\times f'(x)$\"\n    # TODO: Implement for Task 0.1.",
+        "detail": "minitorch.operators",
+        "documentation": {}
+    },
+    {
+        "label": "MathTest",
+        "kind": 6,
+        "importPath": "minitorch.testing",
+        "description": "minitorch.testing",
+        "peekOfCode": "class MathTest(Generic[A]):\n    @staticmethod\n    def neg(a: A) -> A:\n        \"Negate the argument\"\n        return -a\n    @staticmethod\n    def addConstant(a: A) -> A:\n        \"Add contant to the argument\"\n        return 5 + a\n    @staticmethod",
+        "detail": "minitorch.testing",
+        "documentation": {}
+    },
+    {
+        "label": "MathTestVariable",
+        "kind": 6,
+        "importPath": "minitorch.testing",
+        "description": "minitorch.testing",
+        "peekOfCode": "class MathTestVariable(MathTest):\n    @staticmethod\n    def inv(a):\n        return 1.0 / (a + 3.5)\n    @staticmethod\n    def sig(x):\n        return x.sigmoid()\n    @staticmethod\n    def log(x):\n        return (x + 100000).log()",
+        "detail": "minitorch.testing",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "kind": 5,
+        "importPath": "minitorch.testing",
+        "description": "minitorch.testing",
+        "peekOfCode": "A = TypeVar(\"A\")\nclass MathTest(Generic[A]):\n    @staticmethod\n    def neg(a: A) -> A:\n        \"Negate the argument\"\n        return -a\n    @staticmethod\n    def addConstant(a: A) -> A:\n        \"Add contant to the argument\"\n        return 5 + a",
+        "detail": "minitorch.testing",
+        "documentation": {}
+    },
+    {
+        "label": "make_scatters",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def make_scatters(graph, model=None, size=50):\n    color_map = [\"#69bac9\", \"#ea8484\"]\n    symbol_map = [\"circle-dot\", \"x\"]\n    colors = [color_map[y] for y in graph.y]\n    symbols = [symbol_map[y] for y in graph.y]\n    scatters = []\n    if model is not None:\n        colorscale = [[0, \"#69bac9\"], [1.0, \"#ea8484\"]]\n        z = [\n            model([[j / (size + 1.0), k / (size + 1.0)] for j in range(size + 1)])",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "animate",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def animate(self, models, names):\n    import plotly.graph_objects as go\n    scatters = [make_scatters(self, m) for m in models]\n    background = [s[0] for s in scatters]\n    for i, b in enumerate(background):\n        b[\"visible\"] = i == 0\n    points = scatters[0][1]\n    steps = []\n    for i in range(len(background)):\n        step = dict(",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "make_oned",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def make_oned(graph, model=None, size=50):\n    scatters = []\n    color_map = [\"#69bac9\", \"#ea8484\"]\n    symbol_map = [\"circle-dot\", \"x\"]\n    colors = [color_map[y] for y in graph.y]\n    symbols = [symbol_map[y] for y in graph.y]\n    if model is not None:\n        # colorscale = [[0, \"#69bac9\"], [1.0, \"#ea8484\"]]\n        y = model([[j / (size + 1.0), 0.0] for j in range(size + 1)])\n        x = [j / (size + 1.0) for j in range(size + 1)]",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "plot_out",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def plot_out(graph, model=None, name=\"\", size=50, oned=False):\n    if oned:\n        scatters = make_oned(graph, model, size=size)\n    else:\n        scatters = make_scatters(graph, model, size=size)\n    fig = go.Figure(scatters)\n    fig.update_layout(\n        xaxis={\n            \"showgrid\": False,  # thin lines in the background\n            \"visible\": False,  # numbers below",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "plot",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def plot(graph, model=None, name=\"\"):\n    plot_out(graph, model, name).show()\ndef plot_function(title, fn, arange=[(i / 10.0) - 5 for i in range(0, 100)], fn2=None):\n    ys = [fn(x) for x in arange]\n    scatters = []\n    scatter = go.Scatter(x=arange, y=ys)\n    scatters.append(scatter)\n    if fn2 is not None:\n        ys = [fn2(x) for x in arange]\n        scatter2 = go.Scatter(x=arange, y=ys)",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "plot_function",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def plot_function(title, fn, arange=[(i / 10.0) - 5 for i in range(0, 100)], fn2=None):\n    ys = [fn(x) for x in arange]\n    scatters = []\n    scatter = go.Scatter(x=arange, y=ys)\n    scatters.append(scatter)\n    if fn2 is not None:\n        ys = [fn2(x) for x in arange]\n        scatter2 = go.Scatter(x=arange, y=ys)\n        scatters.append(scatter2)\n    fig = go.Figure(scatters)",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "plot_function3D",
+        "kind": 2,
+        "importPath": "project.interface.plots",
+        "description": "project.interface.plots",
+        "peekOfCode": "def plot_function3D(title, fn, arange=[(i / 5.0) - 4.0 for i in range(0, 40)]):\n    xs = [((x / 10.0) - 5.0 + 1e-5) for x in range(1, 100)]\n    ys = [((x / 10.0) - 5.0 + 1e-5) for x in range(1, 100)]\n    zs = [[fn(x, y) for x in xs] for y in ys]\n    scatter = go.Surface(x=xs, y=ys, z=zs)\n    fig = go.Figure(scatter)\n    fig.update_layout(template=\"simple_white\", title=title)\n    return fig.show()",
+        "detail": "project.interface.plots",
+        "documentation": {}
+    },
+    {
+        "label": "get_image_id",
+        "kind": 2,
+        "importPath": "project.interface.streamlit_utils",
+        "description": "project.interface.streamlit_utils",
+        "peekOfCode": "def get_image_id():\n    global img_id_counter\n    img_id_counter += 1\n    return img_id_counter\ndef get_img_tag(src, width=None):\n    img_id = get_image_id()\n    if width is not None:\n        style = \"\"\"\n<style>.img-{} {{\n    float: left;",
+        "detail": "project.interface.streamlit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_img_tag",
+        "kind": 2,
+        "importPath": "project.interface.streamlit_utils",
+        "description": "project.interface.streamlit_utils",
+        "peekOfCode": "def get_img_tag(src, width=None):\n    img_id = get_image_id()\n    if width is not None:\n        style = \"\"\"\n<style>.img-{} {{\n    float: left;\n    width: {}px;\n}}\n</style>\n        \"\"\".format(img_id, width)",
+        "detail": "project.interface.streamlit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "render_function",
+        "kind": 2,
+        "importPath": "project.interface.streamlit_utils",
+        "description": "project.interface.streamlit_utils",
+        "peekOfCode": "def render_function(fn):\n    st.markdown(\n        \"\"\"\n```python\n%s\n```\"\"\"\n        % inspect.getsource(fn)\n    )",
+        "detail": "project.interface.streamlit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "img_id_counter",
+        "kind": 5,
+        "importPath": "project.interface.streamlit_utils",
+        "description": "project.interface.streamlit_utils",
+        "peekOfCode": "img_id_counter = 0\ndef get_image_id():\n    global img_id_counter\n    img_id_counter += 1\n    return img_id_counter\ndef get_img_tag(src, width=None):\n    img_id = get_image_id()\n    if width is not None:\n        style = \"\"\"\n<style>.img-{} {{",
+        "detail": "project.interface.streamlit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "render_train_interface",
+        "kind": 2,
+        "importPath": "project.interface.train",
+        "description": "project.interface.train",
+        "peekOfCode": "def render_train_interface(\n    TrainCls, graph=True, hidden_layer=True, parameter_control=False\n):\n    datasets_map = minitorch.datasets\n    st.write(\"## Sandbox for Model Training\")\n    st.markdown(\"### Dataset\")\n    col1, col2 = st.columns(2)\n    points = col2.slider(\"Number of points\", min_value=1, max_value=150, value=50)\n    selected_dataset = col1.selectbox(\"Select dataset\", list(datasets_map.keys()))\n    @st.cache",
+        "detail": "project.interface.train",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "parser = ArgumentParser()\nparser.add_argument(\"module_num\", type=int)\nparser.add_argument(\n    \"--hide_function_defs\", action=\"store_true\", dest=\"hide_function_defs\"\n)\nargs = parser.parse_args()\nmodule_num = args.module_num\nhide_function_defs = args.hide_function_defs\nst.set_page_config(page_title=\"interactive minitorch\")\nst.sidebar.markdown(",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "args = parser.parse_args()\nmodule_num = args.module_num\nhide_function_defs = args.hide_function_defs\nst.set_page_config(page_title=\"interactive minitorch\")\nst.sidebar.markdown(\n    \"\"\"\n<h1 style=\"font-size:30pt; float: left; margin-right: 20px; margin-top: 1px;\">MiniTorch</h1>{}\n\"\"\".format(get_img_tag(\"https://minitorch.github.io/logo-sm.png\", width=\"40\")),\n    unsafe_allow_html=True,\n)",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "module_num",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "module_num = args.module_num\nhide_function_defs = args.hide_function_defs\nst.set_page_config(page_title=\"interactive minitorch\")\nst.sidebar.markdown(\n    \"\"\"\n<h1 style=\"font-size:30pt; float: left; margin-right: 20px; margin-top: 1px;\">MiniTorch</h1>{}\n\"\"\".format(get_img_tag(\"https://minitorch.github.io/logo-sm.png\", width=\"40\")),\n    unsafe_allow_html=True,\n)\nst.sidebar.markdown(",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "hide_function_defs",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "hide_function_defs = args.hide_function_defs\nst.set_page_config(page_title=\"interactive minitorch\")\nst.sidebar.markdown(\n    \"\"\"\n<h1 style=\"font-size:30pt; float: left; margin-right: 20px; margin-top: 1px;\">MiniTorch</h1>{}\n\"\"\".format(get_img_tag(\"https://minitorch.github.io/logo-sm.png\", width=\"40\")),\n    unsafe_allow_html=True,\n)\nst.sidebar.markdown(\n    \"\"\"",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "module_selection",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "module_selection = st.sidebar.radio(\n    \"Module\",\n    [\"Module 0\", \"Module 1\", \"Module 2\", \"Module 3\", \"Module 4\"][: module_num + 1],\n    index=module_num,\n)\nPAGES = {}\nif module_selection == \"Module 0\":\n    from module_interface import render_module_sandbox\n    from run_manual import ManualTrain\n    def render_run_manual_interface():",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "PAGES",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "PAGES = {}\nif module_selection == \"Module 0\":\n    from module_interface import render_module_sandbox\n    from run_manual import ManualTrain\n    def render_run_manual_interface():\n        st.header(\"Module 0 - Manual\")\n        render_train_interface(ManualTrain, False, False, True)\n    def render_m0_sandbox():\n        return render_math_sandbox(False)\n    PAGES[\"Math Sandbox\"] = render_m0_sandbox",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "PAGE_OPTIONS",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "PAGE_OPTIONS = list(PAGES.keys())\npage_selection = st.sidebar.radio(\"Pages\", PAGE_OPTIONS)\npage = PAGES[page_selection]\npage()",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "page_selection",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "page_selection = st.sidebar.radio(\"Pages\", PAGE_OPTIONS)\npage = PAGES[page_selection]\npage()",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "page",
+        "kind": 5,
+        "importPath": "project.app",
+        "description": "project.app",
+        "peekOfCode": "page = PAGES[page_selection]\npage()",
+        "detail": "project.app",
+        "documentation": {}
+    },
+    {
+        "label": "GraphBuilder",
+        "kind": 6,
+        "importPath": "project.graph_builder",
+        "description": "project.graph_builder",
+        "peekOfCode": "class GraphBuilder:\n    def __init__(self):\n        self.op_id = 0\n        self.hid = 0\n        self.intermediates = {}\n    def get_name(self, x):\n        if not isinstance(x, Scalar) and not isinstance(x, minitorch.Tensor):\n            return \"constant %s\" % (x,)\n        elif len(x.name) > 15:\n            if x.name in self.intermediates:",
+        "detail": "project.graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "build_expression",
+        "kind": 2,
+        "importPath": "project.graph_builder",
+        "description": "project.graph_builder",
+        "peekOfCode": "def build_expression(code):\n    out = eval(\n        code,\n        {\n            \"x\": minitorch.Scalar(1.0, name=\"x\"),\n            \"y\": minitorch.Scalar(1.0, name=\"y\"),\n            \"z\": minitorch.Scalar(1.0, name=\"z\"),\n        },\n    )\n    out.name = \"out\"",
+        "detail": "project.graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "build_tensor_expression",
+        "kind": 2,
+        "importPath": "project.graph_builder",
+        "description": "project.graph_builder",
+        "peekOfCode": "def build_tensor_expression(code):\n    variables = {\n        \"x\": minitorch.tensor([[1.0, 2.0, 3.0]], requires_grad=True),\n        \"y\": minitorch.tensor([[1.0, 2.0, 3.0]], requires_grad=True),\n        \"z\": minitorch.tensor([[1.0, 2.0, 3.0]], requires_grad=True),\n    }\n    variables[\"x\"].name = \"x\"\n    variables[\"y\"].name = \"y\"\n    variables[\"z\"].name = \"z\"\n    out = eval(code, variables)",
+        "detail": "project.graph_builder",
+        "documentation": {}
+    },
+    {
+        "label": "render_math_sandbox",
+        "kind": 2,
+        "importPath": "project.math_interface",
+        "description": "project.math_interface",
+        "peekOfCode": "def render_math_sandbox(use_scalar=False, use_tensor=False):\n    st.write(\"## Sandbox for Math Functions\")\n    st.write(\"Visualization of the mathematical tests run on the underlying code.\")\n    if use_scalar:\n        one, two, red = MathTestVariable._comp_testing()\n    else:\n        one, two, red = MathTest._comp_testing()\n    f_type = st.selectbox(\"Function Type\", [\"One Arg\", \"Two Arg\", \"Reduce\"])\n    select = {\"One Arg\": one, \"Two Arg\": two, \"Reduce\": red}\n    fn = st.selectbox(\"Function\", select[f_type], format_func=lambda a: a[0])",
+        "detail": "project.math_interface",
+        "documentation": {}
+    },
+    {
+        "label": "MyModule",
+        "kind": 5,
+        "importPath": "project.math_interface",
+        "description": "project.math_interface",
+        "peekOfCode": "MyModule = None\nminitorch\ndef render_math_sandbox(use_scalar=False, use_tensor=False):\n    st.write(\"## Sandbox for Math Functions\")\n    st.write(\"Visualization of the mathematical tests run on the underlying code.\")\n    if use_scalar:\n        one, two, red = MathTestVariable._comp_testing()\n    else:\n        one, two, red = MathTest._comp_testing()\n    f_type = st.selectbox(\"Function Type\", [\"One Arg\", \"Two Arg\", \"Reduce\"])",
+        "detail": "project.math_interface",
+        "documentation": {}
+    },
+    {
+        "label": "MyModule",
+        "kind": 6,
+        "importPath": "project.module_interface",
+        "description": "project.module_interface",
+        "peekOfCode": "class MyModule(minitorch.Module):\n    def __init__(self):\n        super().__init__()\n        self.parameter1 = minitorch.Parameter(15)\n\"\"\",\n    )\n    out = exec(code, globals())\n    out = MyModule()\n    st.write(dict(out.named_parameters()))\n    G = nx.MultiDiGraph()",
+        "detail": "project.module_interface",
+        "documentation": {}
+    },
+    {
+        "label": "render_module_sandbox",
+        "kind": 2,
+        "importPath": "project.module_interface",
+        "description": "project.module_interface",
+        "peekOfCode": "def render_module_sandbox():\n    st.write(\"## Sandbox for Module Trees\")\n    st.write(\n        \"Visual debugging checks showing the module tree that your code constructs.\"\n    )\n    code = st_ace(\n        language=\"python\",\n        height=300,\n        value=\"\"\"\nclass MyModule(minitorch.Module):",
+        "detail": "project.module_interface",
+        "documentation": {}
+    },
+    {
+        "label": "MyModule",
+        "kind": 5,
+        "importPath": "project.module_interface",
+        "description": "project.module_interface",
+        "peekOfCode": "MyModule = None\nminitorch\ndef render_module_sandbox():\n    st.write(\"## Sandbox for Module Trees\")\n    st.write(\n        \"Visual debugging checks showing the module tree that your code constructs.\"\n    )\n    code = st_ace(\n        language=\"python\",\n        height=300,",
+        "detail": "project.module_interface",
+        "documentation": {}
+    },
+    {
+        "label": "Network",
+        "kind": 6,
+        "importPath": "project.run_manual",
+        "description": "project.run_manual",
+        "peekOfCode": "class Network(minitorch.Module):\n    def __init__(self):\n        super().__init__()\n        self.linear = Linear(2, 1)\n    def forward(self, x):\n        y = self.linear(x)\n        return minitorch.operators.sigmoid(y[0])\nclass Linear(minitorch.Module):\n    def __init__(self, in_size, out_size):\n        super().__init__()",
+        "detail": "project.run_manual",
+        "documentation": {}
+    },
+    {
+        "label": "Linear",
+        "kind": 6,
+        "importPath": "project.run_manual",
+        "description": "project.run_manual",
+        "peekOfCode": "class Linear(minitorch.Module):\n    def __init__(self, in_size, out_size):\n        super().__init__()\n        random.seed(100)\n        self.weights = []\n        self.bias = []\n        for i in range(in_size):\n            weights = []\n            for j in range(out_size):\n                w = self.add_parameter(f\"weight_{i}_{j}\", 2 * (random.random() - 0.5))",
+        "detail": "project.run_manual",
+        "documentation": {}
+    },
+    {
+        "label": "ManualTrain",
+        "kind": 6,
+        "importPath": "project.run_manual",
+        "description": "project.run_manual",
+        "peekOfCode": "class ManualTrain:\n    def __init__(self, hidden_layers):\n        self.model = Network()\n    def run_one(self, x):\n        return self.model.forward((x[0], x[1]))",
+        "detail": "project.run_manual",
+        "documentation": {}
+    },
+    {
+        "label": "Network",
+        "kind": 6,
+        "importPath": "project.run_torch",
+        "description": "project.run_torch",
+        "peekOfCode": "class Network(torch.nn.Module):\n    def __init__(self, hidden_layers):\n        super().__init__()\n        # Submodules\n        self.layer1 = Linear(2, hidden_layers)\n        self.layer2 = Linear(hidden_layers, hidden_layers)\n        self.layer3 = Linear(hidden_layers, 1)\n    def forward(self, x):\n        h = self.layer1.forward(x).relu()\n        h = self.layer2.forward(h).relu()",
+        "detail": "project.run_torch",
+        "documentation": {}
+    },
+    {
+        "label": "Linear",
+        "kind": 6,
+        "importPath": "project.run_torch",
+        "description": "project.run_torch",
+        "peekOfCode": "class Linear(torch.nn.Module):\n    def __init__(self, in_size, out_size):\n        super().__init__()\n        self.weight = torch.nn.Parameter(2 * (torch.rand((in_size, out_size)) - 0.5))\n        self.bias = torch.nn.Parameter(2 * (torch.rand((out_size,)) - 0.5))\n    def forward(self, x):\n        return x @ self.weight + self.bias\nclass TorchTrain:\n    def __init__(self, hidden_layers):\n        self.hidden_layers = hidden_layers",
+        "detail": "project.run_torch",
+        "documentation": {}
+    },
+    {
+        "label": "TorchTrain",
+        "kind": 6,
+        "importPath": "project.run_torch",
+        "description": "project.run_torch",
+        "peekOfCode": "class TorchTrain:\n    def __init__(self, hidden_layers):\n        self.hidden_layers = hidden_layers\n        self.model = Network(hidden_layers)\n    def run_one(self, x):\n        return self.model.forward(torch.tensor([x]))\n    def run_many(self, X):\n        return self.model.forward(torch.tensor(X)).detach()\n    def train(\n        self,",
+        "detail": "project.run_torch",
+        "documentation": {}
+    },
+    {
+        "label": "default_log_fn",
+        "kind": 2,
+        "importPath": "project.run_torch",
+        "description": "project.run_torch",
+        "peekOfCode": "def default_log_fn(epoch, total_loss, correct, losses):\n    print(\"Epoch \", epoch, \" loss \", total_loss, \"correct\", correct)\nclass Network(torch.nn.Module):\n    def __init__(self, hidden_layers):\n        super().__init__()\n        # Submodules\n        self.layer1 = Linear(2, hidden_layers)\n        self.layer2 = Linear(hidden_layers, hidden_layers)\n        self.layer3 = Linear(hidden_layers, 1)\n    def forward(self, x):",
+        "detail": "project.run_torch",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "tests.check_ops_quick",
+        "description": "tests.check_ops_quick",
+        "peekOfCode": "x = 10.0\nd = 2.0\nassert abs(ops.log_back(x, d) - (d / (x + ops.EPS))) < 1e-12\nprint('log_back checks OK')\n# relu and relu_back\nassert ops.relu(5.0) == 5.0\nassert ops.relu(-3.0) == 0.0\nassert ops.relu_back(5.0, 3.0) == 3.0\nassert ops.relu_back(-3.0, 3.0) == 0.0\nprint('relu checks OK')",
+        "detail": "tests.check_ops_quick",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "tests.check_ops_quick",
+        "description": "tests.check_ops_quick",
+        "peekOfCode": "d = 2.0\nassert abs(ops.log_back(x, d) - (d / (x + ops.EPS))) < 1e-12\nprint('log_back checks OK')\n# relu and relu_back\nassert ops.relu(5.0) == 5.0\nassert ops.relu(-3.0) == 0.0\nassert ops.relu_back(5.0, 3.0) == 3.0\nassert ops.relu_back(-3.0, 3.0) == 0.0\nprint('relu checks OK')\nprint('ALL QUICK CHECKS PASS')",
+        "detail": "tests.check_ops_quick",
+        "documentation": {}
+    },
+    {
+        "label": "assert_close",
+        "kind": 2,
+        "importPath": "tests.strategies",
+        "description": "tests.strategies",
+        "peekOfCode": "def assert_close(a: float, b: float) -> None:\n    assert minitorch.operators.is_close(a, b), \"Failure x=%f y=%f\" % (a, b)",
+        "detail": "tests.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "small_ints",
+        "kind": 5,
+        "importPath": "tests.strategies",
+        "description": "tests.strategies",
+        "peekOfCode": "small_ints = integers(min_value=1, max_value=3)\nsmall_floats = floats(min_value=-100, max_value=100, allow_nan=False)\nmed_ints = integers(min_value=1, max_value=20)\ndef assert_close(a: float, b: float) -> None:\n    assert minitorch.operators.is_close(a, b), \"Failure x=%f y=%f\" % (a, b)",
+        "detail": "tests.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "small_floats",
+        "kind": 5,
+        "importPath": "tests.strategies",
+        "description": "tests.strategies",
+        "peekOfCode": "small_floats = floats(min_value=-100, max_value=100, allow_nan=False)\nmed_ints = integers(min_value=1, max_value=20)\ndef assert_close(a: float, b: float) -> None:\n    assert minitorch.operators.is_close(a, b), \"Failure x=%f y=%f\" % (a, b)",
+        "detail": "tests.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "med_ints",
+        "kind": 5,
+        "importPath": "tests.strategies",
+        "description": "tests.strategies",
+        "peekOfCode": "med_ints = integers(min_value=1, max_value=20)\ndef assert_close(a: float, b: float) -> None:\n    assert minitorch.operators.is_close(a, b), \"Failure x=%f y=%f\" % (a, b)",
+        "detail": "tests.strategies",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleA1",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class ModuleA1(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.p1 = minitorch.Parameter(5)\n        self.non_param = 10\n        self.a = ModuleA2()\n        self.b = ModuleA3()\nclass ModuleA2(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleA2",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class ModuleA2(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.p2 = minitorch.Parameter(10)\nclass ModuleA3(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.c = ModuleA4()\nclass ModuleA4(minitorch.Module):\n    def __init__(self) -> None:",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleA3",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class ModuleA3(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.c = ModuleA4()\nclass ModuleA4(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.p3 = minitorch.Parameter(15)\n@pytest.mark.task0_4\ndef test_stacked_demo() -> None:",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleA4",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class ModuleA4(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.p3 = minitorch.Parameter(15)\n@pytest.mark.task0_4\ndef test_stacked_demo() -> None:\n    \"\"\"Check that each of the properties match\"\"\"\n    mod = ModuleA1()\n    np = dict(mod.named_parameters())\n    x = str(mod)",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "Module1",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class Module1(minitorch.Module):\n    def __init__(self, size_a: int, size_b: int, val: float) -> None:\n        super().__init__()\n        self.module_a = Module2(size_a)\n        self.module_b = Module2(size_b)\n        self.parameter_a = minitorch.Parameter(val)\nclass Module2(minitorch.Module):\n    def __init__(self, extra: int = 0) -> None:\n        super().__init__()\n        self.parameter_a = minitorch.Parameter(VAL_A)",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "Module2",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class Module2(minitorch.Module):\n    def __init__(self, extra: int = 0) -> None:\n        super().__init__()\n        self.parameter_a = minitorch.Parameter(VAL_A)\n        self.parameter_b = minitorch.Parameter(VAL_B)\n        self.non_parameter = 10\n        self.module_c = Module3()\n        for i in range(extra):\n            self.add_parameter(f\"extra_parameter_{i}\", 0)\nclass Module3(minitorch.Module):",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "Module3",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class Module3(minitorch.Module):\n    def __init__(self) -> None:\n        super().__init__()\n        self.parameter_a = minitorch.Parameter(VAL_A)\n@pytest.mark.task0_4\n@given(med_ints, med_ints)\ndef test_module(size_a: int, size_b: int) -> None:\n    \"\"\"Check the properties of a single module\"\"\"\n    module = Module2()\n    module.eval()",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleRun",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class ModuleRun(minitorch.Module):\n    def forward(self) -> int:\n        return 10\n@pytest.mark.task0_4\n@pytest.mark.xfail\ndef test_module_fail_forward() -> None:\n    mod = minitorch.Module()\n    mod()\n@pytest.mark.task0_4\ndef test_module_forward() -> None:",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "MockParam",
+        "kind": 6,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "class MockParam:\n    def __init__(self) -> None:\n        self.x = False\n    def requires_grad_(self, x: bool) -> None:\n        self.x = x\ndef test_parameter() -> None:\n    t = MockParam()\n    q = minitorch.Parameter(t)\n    print(q)\n    assert t.x",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_stacked_demo",
+        "kind": 2,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "def test_stacked_demo() -> None:\n    \"\"\"Check that each of the properties match\"\"\"\n    mod = ModuleA1()\n    np = dict(mod.named_parameters())\n    x = str(mod)\n    print(x)\n    assert mod.p1.value == 5\n    assert mod.non_param == 10\n    assert np[\"p1\"].value == 5\n    assert np[\"a.p2\"].value == 10",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_module",
+        "kind": 2,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "def test_module(size_a: int, size_b: int) -> None:\n    \"\"\"Check the properties of a single module\"\"\"\n    module = Module2()\n    module.eval()\n    assert not module.training\n    module.train()\n    assert module.training\n    assert len(module.parameters()) == 3\n    module = Module2(size_b)\n    assert len(module.parameters()) == size_b + 3",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_stacked_module",
+        "kind": 2,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "def test_stacked_module(size_a: int, size_b: int, val: float) -> None:\n    \"\"\"Check the properties of a stacked module\"\"\"\n    module = Module1(size_a, size_b, val)\n    module.eval()\n    assert not module.training\n    assert not module.module_a.training\n    assert not module.module_b.training\n    module.train()\n    assert module.training\n    assert module.module_a.training",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_module_fail_forward",
+        "kind": 2,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "def test_module_fail_forward() -> None:\n    mod = minitorch.Module()\n    mod()\n@pytest.mark.task0_4\ndef test_module_forward() -> None:\n    mod = ModuleRun()\n    assert mod.forward() == 10\n    # Calling directly should call forward\n    assert mod() == 10\n# Internal check for the system.",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_module_forward",
+        "kind": 2,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "def test_module_forward() -> None:\n    mod = ModuleRun()\n    assert mod.forward() == 10\n    # Calling directly should call forward\n    assert mod() == 10\n# Internal check for the system.\nclass MockParam:\n    def __init__(self) -> None:\n        self.x = False\n    def requires_grad_(self, x: bool) -> None:",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_parameter",
+        "kind": 2,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "def test_parameter() -> None:\n    t = MockParam()\n    q = minitorch.Parameter(t)\n    print(q)\n    assert t.x\n    t2 = MockParam()\n    q.update(t2)\n    assert t2.x",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "VAL_A",
+        "kind": 5,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "VAL_A = 50.0\nVAL_B = 100.0\nclass Module1(minitorch.Module):\n    def __init__(self, size_a: int, size_b: int, val: float) -> None:\n        super().__init__()\n        self.module_a = Module2(size_a)\n        self.module_b = Module2(size_b)\n        self.parameter_a = minitorch.Parameter(val)\nclass Module2(minitorch.Module):\n    def __init__(self, extra: int = 0) -> None:",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "VAL_B",
+        "kind": 5,
+        "importPath": "tests.test_module",
+        "description": "tests.test_module",
+        "peekOfCode": "VAL_B = 100.0\nclass Module1(minitorch.Module):\n    def __init__(self, size_a: int, size_b: int, val: float) -> None:\n        super().__init__()\n        self.module_a = Module2(size_a)\n        self.module_b = Module2(size_b)\n        self.parameter_a = minitorch.Parameter(val)\nclass Module2(minitorch.Module):\n    def __init__(self, extra: int = 0) -> None:\n        super().__init__()",
+        "detail": "tests.test_module",
+        "documentation": {}
+    },
+    {
+        "label": "test_same_as_python",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_same_as_python(x: float, y: float) -> None:\n    \"\"\"Check that the main operators all return the same value of the python version\"\"\"\n    assert_close(mul(x, y), x * y)\n    assert_close(add(x, y), x + y)\n    assert_close(neg(x), -x)\n    assert_close(max(x, y), x if x > y else y)\n    if abs(x) > 1e-5:\n        assert_close(inv(x), 1.0 / x)\n@pytest.mark.task0_1\n@given(small_floats)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_relu",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_relu(a: float) -> None:\n    if a > 0:\n        assert relu(a) == a\n    if a < 0:\n        assert relu(a) == 0.0\n@pytest.mark.task0_1\n@given(small_floats, small_floats)\ndef test_relu_back(a: float, b: float) -> None:\n    if a > 0:\n        assert relu_back(a, b) == b",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_relu_back",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_relu_back(a: float, b: float) -> None:\n    if a > 0:\n        assert relu_back(a, b) == b\n    if a < 0:\n        assert relu_back(a, b) == 0.0\n@pytest.mark.task0_1\n@given(small_floats)\ndef test_id(a: float) -> None:\n    assert id(a) == a\n@pytest.mark.task0_1",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_id",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_id(a: float) -> None:\n    assert id(a) == a\n@pytest.mark.task0_1\n@given(small_floats)\ndef test_lt(a: float) -> None:\n    \"\"\"Check that a - 1.0 is always less than a\"\"\"\n    assert lt(a - 1.0, a) == 1.0\n    assert lt(a, a - 1.0) == 0.0\n@pytest.mark.task0_1\n@given(small_floats)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_lt",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_lt(a: float) -> None:\n    \"\"\"Check that a - 1.0 is always less than a\"\"\"\n    assert lt(a - 1.0, a) == 1.0\n    assert lt(a, a - 1.0) == 0.0\n@pytest.mark.task0_1\n@given(small_floats)\ndef test_max(a: float) -> None:\n    assert max(a - 1.0, a) == a\n    assert max(a, a - 1.0) == a\n    assert max(a + 1.0, a) == a + 1.0",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_max",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_max(a: float) -> None:\n    assert max(a - 1.0, a) == a\n    assert max(a, a - 1.0) == a\n    assert max(a + 1.0, a) == a + 1.0\n    assert max(a, a + 1.0) == a + 1.0\n@pytest.mark.task0_1\n@given(small_floats)\ndef test_eq(a: float) -> None:\n    assert eq(a, a) == 1.0\n    assert eq(a, a - 1.0) == 0.0",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_eq",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_eq(a: float) -> None:\n    assert eq(a, a) == 1.0\n    assert eq(a, a - 1.0) == 0.0\n    assert eq(a, a + 1.0) == 0.0\n# ## Task 0.2 - Property Testing\n# Implement the following property checks\n# that ensure that your operators obey basic\n# mathematical rules.\n@pytest.mark.task0_2\n@given(small_floats)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_sigmoid",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_sigmoid(a: float) -> None:\n    \"\"\"Check properties of the sigmoid function, specifically\n    * It is always between 0.0 and 1.0.\n    * one minus sigmoid is the same as sigmoid of the negative\n    * It crosses 0 at 0.5\n    * It is  strictly increasing.\n    \"\"\"\n    # TODO: Implement for Task 0.2.\n    assert 0.0 <= sigmoid(a) <= 1.0\n    assert_close(1 - sigmoid(a), sigmoid(-a))",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_transitive",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_transitive(a: float, b: float, c: float) -> None:\n    \"\"\"Test the transitive property of less-than (a < b and b < c implies a < c)\"\"\"\n    # TODO: Implement for Task 0.2.\n    assert a < c if (a < b) and (b < c) else True\n@pytest.mark.task0_2\ndef test_symmetric() -> None:\n    \"\"\"Write a test that ensures that :func:`minitorch.operators.mul` is symmetric, i.e.\n    gives the same value regardless of the order of its input.\n    \"\"\"\n    # TODO: Implement for Task 0.2.",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_symmetric",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_symmetric() -> None:\n    \"\"\"Write a test that ensures that :func:`minitorch.operators.mul` is symmetric, i.e.\n    gives the same value regardless of the order of its input.\n    \"\"\"\n    # TODO: Implement for Task 0.2.\n    assert mul(2, 3) == mul(3, 2)\n@pytest.mark.task0_2\ndef test_distribute() -> None:\n    r\"\"\"Write a test that ensures that your operators distribute, i.e.\n    :math:`z \\times (x + y) = z \\times x + z \\times y`",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_distribute",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_distribute() -> None:\n    r\"\"\"Write a test that ensures that your operators distribute, i.e.\n    :math:`z \\times (x + y) = z \\times x + z \\times y`\n    \"\"\"\n    # TODO: Implement for Task 0.2.\n    assert mul(2, add(3, 4)) == mul(2, 3) + mul(2, 4)\n@pytest.mark.task0_2\ndef test_other() -> None:\n    \"\"\"Write a test that ensures some other property holds for your functions.\"\"\"\n    # TODO: Implement for Task 0.2.",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_other",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_other() -> None:\n    \"\"\"Write a test that ensures some other property holds for your functions.\"\"\"\n    # TODO: Implement for Task 0.2.\n    x, y, z = 1, 1, 1\n    assert mul(z, add(x, y)) == mul(z, x) + mul(z, y)\n# ## Task 0.3  - Higher-order functions\n# These tests check that your higher-order functions obey basic\n# properties.\n@pytest.mark.task0_3\n@given(small_floats, small_floats, small_floats, small_floats)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_zip_with",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_zip_with(a: float, b: float, c: float, d: float) -> None:\n    x1, x2 = addLists([a, b], [c, d])\n    y1, y2 = a + c, b + d\n    assert_close(x1, y1)\n    assert_close(x2, y2)\n@pytest.mark.task0_3\n@given(\n    lists(small_floats, min_size=5, max_size=5),\n    lists(small_floats, min_size=5, max_size=5),\n)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_sum_distribute",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_sum_distribute(ls1: List[float], ls2: List[float]) -> None:\n    \"\"\"Write a test that ensures that the sum of `ls1` plus the sum of `ls2`\n    is the same as the sum of each element of `ls1` plus each element of `ls2`.\n    \"\"\"\n    # TODO: Implement for Task 0.3.\n    assert_close(sum(ls1) + sum(ls2), sum([x + y for x, y in zip(ls1, ls2)]))\n@pytest.mark.task0_3\n@given(lists(small_floats))\ndef test_sum(ls: List[float]) -> None:\n    assert_close(sum(ls), minitorch.operators.sum(ls))",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_sum",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_sum(ls: List[float]) -> None:\n    assert_close(sum(ls), minitorch.operators.sum(ls))\n@pytest.mark.task0_3\n@given(small_floats, small_floats, small_floats)\ndef test_prod(x: float, y: float, z: float) -> None:\n    assert_close(prod([x, y, z]), x * y * z)\n@pytest.mark.task0_3\n@given(lists(small_floats))\ndef test_negList(ls: List[float]) -> None:\n    check = negList(ls)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_prod",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_prod(x: float, y: float, z: float) -> None:\n    assert_close(prod([x, y, z]), x * y * z)\n@pytest.mark.task0_3\n@given(lists(small_floats))\ndef test_negList(ls: List[float]) -> None:\n    check = negList(ls)\n    for i, j in zip(ls, check):\n        assert_close(i, -j)\n# ## Generic mathematical tests\n# For each unit this generic set of mathematical tests will run.",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_negList",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_negList(ls: List[float]) -> None:\n    check = negList(ls)\n    for i, j in zip(ls, check):\n        assert_close(i, -j)\n# ## Generic mathematical tests\n# For each unit this generic set of mathematical tests will run.\none_arg, two_arg, _ = MathTest._tests()\n@given(small_floats)\n@pytest.mark.parametrize(\"fn\", one_arg)\ndef test_one_args(fn: Tuple[str, Callable[[float], float]], t1: float) -> None:",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_one_args",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_one_args(fn: Tuple[str, Callable[[float], float]], t1: float) -> None:\n    name, base_fn = fn\n    base_fn(t1)\n@given(small_floats, small_floats)\n@pytest.mark.parametrize(\"fn\", two_arg)\ndef test_two_args(\n    fn: Tuple[str, Callable[[float, float], float]], t1: float, t2: float\n) -> None:\n    name, base_fn = fn\n    base_fn(t1, t2)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_two_args",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_two_args(\n    fn: Tuple[str, Callable[[float, float], float]], t1: float, t2: float\n) -> None:\n    name, base_fn = fn\n    base_fn(t1, t2)\n@given(small_floats, small_floats)\ndef test_backs(a: float, b: float) -> None:\n    relu_back(a, b)\n    inv_back(a + 2.4, b)\n    log_back(abs(a) + 4, b)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    },
+    {
+        "label": "test_backs",
+        "kind": 2,
+        "importPath": "tests.test_operators",
+        "description": "tests.test_operators",
+        "peekOfCode": "def test_backs(a: float, b: float) -> None:\n    relu_back(a, b)\n    inv_back(a + 2.4, b)\n    log_back(abs(a) + 4, b)",
+        "detail": "tests.test_operators",
+        "documentation": {}
+    }
+]
